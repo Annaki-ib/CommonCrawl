@@ -1,0 +1,90 @@
+{
+  "dataset_summary": {
+    "total_documents": 17,
+    "entity_statistics": {
+      "total_docs": 17,
+      "total_entities": 93,
+      "unique_entities": 70,
+      "avg_entities_per_doc": 5.470588235294118,
+      "entity_counts_distribution": [
+        3,
+        4,
+        27,
+        13,
+        0,
+        4,
+        4,
+        3,
+        2,
+        0,
+        8,
+        2,
+        0,
+        7,
+        3,
+        1,
+        12
+      ],
+      "most_common_entities": [
+        [
+          "Fairbanks",
+          5
+        ],
+        [
+          "Alaska",
+          5
+        ],
+        [
+          "ParkWhiz",
+          4
+        ],
+        [
+          "Knotts Berry Farm",
+          4
+        ],
+        [
+          "American",
+          3
+        ],
+        [
+          "Taxify",
+          2
+        ],
+        [
+          "Internet",
+          2
+        ],
+        [
+          "Samson Hardware",
+          2
+        ],
+        [
+          "Worf",
+          2
+        ],
+        [
+          "USA.",
+          2
+        ]
+      ]
+    },
+    "class_distribution": {
+      "relation-rich": 13,
+      "relation-poor": 4
+    }
+  },
+  "pair_analysis": {
+    "1": 8,
+    "2": 7,
+    "3": 6,
+    "4": 5,
+    "5": 4
+  },
+  "recommendations": {
+    "min_common_entities": 1,
+    "batch_size": 8,
+    "epochs": 5,
+    "balance_ratio": 1.0
+  },
+  "generated_timestamp": "2025-08-13T23:19:46.694310"
+}
